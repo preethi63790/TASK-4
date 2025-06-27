@@ -6,15 +6,15 @@ Example: Enter a name, choose an option, upload a file, etc.
 *Processing Stage
 -The program processes the input using its core logic.
     #It may:
-       Calculate something
-       Analyze data
-       Connect to an API
-       Run a function or algorithm
+       Calculate something,
+       Analyze data,
+       Connect to an API,
+       Run a function or algorithm,
 *Output Stage
 -The program shows the result:
-    On the console
-    As a file
-    Or on a web page/interface
+    On the console,
+    As a file,
+    Or on a web page/interface,
 *Repeat or Exit
 -The program may loop to accept more input.
 -Or it may exit after displaying the result.
